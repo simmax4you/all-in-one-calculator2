@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+#title{
+    text-align: center;
+    font-size: 50px;
+    color: aqua;
+}
+#author{
+    text-align: center;
+    font-size: 25px;
+    color: blue;
+}
+#additionA{
+    color: #af24d6;
+}
+#subtractionA{
+    color: #0008ff;
+}
+#divisionA{
+    color: #710c0c;
+}
+#multiplicationA{
+    color: #31eb40;
+}
